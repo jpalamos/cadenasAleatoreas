@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\CadenaCaracteres\bin\Debug\CadenaCaracteres.exe.config
+C:\Users\DELL\source\repos\CadenaCaracteres\bin\Debug\CadenaCaracteres.exe
+C:\Users\DELL\source\repos\CadenaCaracteres\bin\Debug\CadenaCaracteres.pdb
+C:\Users\DELL\source\repos\CadenaCaracteres\obj\Debug\CadenaCaracteres.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\CadenaCaracteres\obj\Debug\CadenaCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CadenaCaracteres\obj\Debug\CadenaCaracteres.exe
+C:\Users\DELL\source\repos\CadenaCaracteres\obj\Debug\CadenaCaracteres.pdb
